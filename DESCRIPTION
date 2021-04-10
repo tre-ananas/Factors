@@ -1,0 +1,7 @@
+Package: Factors
+Type: Package
+Title: Find Factors of a Given Number
+Version: 0.1.0
+Description: Finds factor pairs for a given number x.
+Encoding: UTF-8
+LazyData: true
